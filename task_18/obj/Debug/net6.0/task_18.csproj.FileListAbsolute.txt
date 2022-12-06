@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\bin\Debug\net6.0\task_18.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\bin\Debug\net6.0\task_18.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\bin\Debug\net6.0\task_18.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\bin\Debug\net6.0\task_18.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\bin\Debug\net6.0\task_18.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\refint\task_18.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\task_18.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task_18\obj\Debug\net6.0\ref\task_18.dll
