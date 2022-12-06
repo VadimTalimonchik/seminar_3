@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\bin\Debug\net6.0\task.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\bin\Debug\net6.0\task.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\bin\Debug\net6.0\task.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\bin\Debug\net6.0\task.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\refint\task.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_3_2\task\obj\Debug\net6.0\ref\task.dll
